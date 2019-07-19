@@ -1,1 +1,2 @@
-Ceci est un ficher
+#Ceci est un ficher
+#et ceci est une ligne de commentaire
